@@ -27,4 +27,12 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1518-water-bottles](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1518-water-bottles](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1518-water-bottles/) | Easy |
 <!---LeetCode Topics End-->
