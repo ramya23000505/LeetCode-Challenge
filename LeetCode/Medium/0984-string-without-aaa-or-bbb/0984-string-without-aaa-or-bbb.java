@@ -15,10 +15,10 @@ class Solution {
 
             } else {
 
-                if (a >= b) {
+                if (a >= b ) {
                     res.append('a');
                     a--;
-                } else if (b > 0) {
+                } else  {
                     res.append('b');
                     b--;
                 }
