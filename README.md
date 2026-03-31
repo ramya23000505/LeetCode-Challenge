@@ -14,6 +14,7 @@
 | [0496-next-greater-element-i](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
 | [0798-smallest-rotation-with-highest-score](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Hard/0798-smallest-rotation-with-highest-score/) | Hard |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -32,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Medium/0658-find-k-closest-elements/) | Medium |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ramya23000505/75DaysLeetCodeChallenge/tree/main/LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
